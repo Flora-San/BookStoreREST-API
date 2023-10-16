@@ -33,11 +33,11 @@ Your API will start running at **`http://127.0.0.1:5000/`**.
    
 
 ## CRUD - Book Store REST API
-### for this simple crud I use python, pytest, and the configuration described is for linux 
+For this simple crud I use python, pytest, and the configuration described is for linux 
 
 **Install poetry _linux instructions_**
 
-update first if is necessary
+Update first if is necessary
 ```
 sudo snap install curl  # version 8.1.2
 ```
@@ -45,7 +45,7 @@ and then run the following command line to install poetry
 ```
 curl -sSL https://install.python-poetry.org | python3 -
 ```
-check poetry version 
+Check poetry version 
 ```
 poetry --version
 ```
