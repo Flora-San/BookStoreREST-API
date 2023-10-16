@@ -62,7 +62,8 @@ You can run these test cases using pytest by executing the following command in 
 Replace _name_test_file.py_ with the name of the Python test cases file you want to run.
 ```
 pytest your_test_file.py
-
-example:
+```
+Example:
+```
 crud.py
 ```
