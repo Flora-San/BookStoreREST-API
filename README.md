@@ -64,6 +64,5 @@ Replace _name_test_file.py_ with the name of the Python test cases file you want
 pytest your_test_file.py
 
 example:
-
-create_new_book_test.py
+crud.py
 ```
